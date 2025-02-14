@@ -1,0 +1,8 @@
+# hidden files
+.*
+
+# with some exceptions
+!.gitignore
+
+# generated files
+site/
