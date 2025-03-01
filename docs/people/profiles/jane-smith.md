@@ -3,6 +3,7 @@ tags:
   - faculty
   - principal-investigator
   - computational-genomics
+role: faculty
 ---
 
 # Dr. Jane Smith
