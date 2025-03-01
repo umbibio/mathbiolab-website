@@ -2,7 +2,7 @@
 .*
 
 # with some exceptions
-!.gitignore
+!.git*
 
 # generated files
 site/
