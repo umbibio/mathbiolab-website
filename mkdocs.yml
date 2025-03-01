@@ -45,7 +45,7 @@ nav:
     - Conference Papers: publications/conferences.md
     - Software & Resources: publications/resources.md
     - By Topic: publications/by-topic.md
-  - News & Events: news.md
+  - News & Events: news/
   - Contact: contact.md
 
 plugins:

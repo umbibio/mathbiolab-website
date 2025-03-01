@@ -2,3 +2,9 @@ mathbiolab:
   name: MathBioLab Team
   description: Official announcements from the Mathematics and Biology Lab
   avatar: ../../assets/images/logo.png
+
+jsmith:
+  name: Dr. Jane Smith
+  description: Principal Investigator, MathBioLab
+  avatar: ../../assets/images/people/placeholder.png
+  url: https://example.com/jsmith
