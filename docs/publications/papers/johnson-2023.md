@@ -11,6 +11,7 @@ authors:
 date: 2023-05-20
 journal: Genome Research
 doi: 10.1101/gr.276392.123
+pub_type: journal
 ---
 
 # Network-based integration of multi-omics data

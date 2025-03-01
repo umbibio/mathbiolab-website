@@ -2,48 +2,21 @@
 
 This page lists our lab's contributions to scientific conferences, including papers, posters, and oral presentations. Lab members' names are highlighted in **bold**.
 
+<!-- Conference publications are automatically populated based on the pub_type tag -->
+<!-- Each publication file should have pub_type: conference in its front matter -->
+
 ## Conference Papers
 
-### 2025
+<!-- material/tags { include: [pub_type=conference] } -->
 
-1. **[Lab Member]**, [Author 2], [Author 3]. (2025). "[Paper Title]." In *Proceedings of [Conference Name]*, pages. [Link]
+## Conference Contributions
 
-### 2024
+In addition to full papers, our lab members regularly present their work at conferences in various formats:
 
-1. [Author 1], **[Lab Member]**, [Author 3]. (2024). "[Paper Title]." In *Proceedings of [Conference Name]*, pages. [Link]
+- **Invited Talks**: Presentations given by lab members at the invitation of conference organizers
+- **Poster Presentations**: Visual presentations of research results
+- **Workshops & Tutorials**: Educational sessions led by lab members
 
-2. **[Lab Member]**, [Author 2]. (2024). "[Paper Title]." In *Proceedings of [Conference Name]*, pages. [Link]
+## Add New Conference Publications
 
-## Invited Talks
-
-### 2025
-
-1. **[Lab Member]**. (2025). "[Talk Title]." *[Conference or Event Name]*, Location. [Date].
-
-### 2024
-
-1. **[Lab Member]**. (2024). "[Talk Title]." *[Conference or Event Name]*, Location. [Date].
-
-## Poster Presentations
-
-### 2025
-
-1. **[Lab Member]**, [Author 2], [Author 3]. (2025). "[Poster Title]." *[Conference Name]*, Location. [Date].
-
-### 2024
-
-1. [Author 1], **[Lab Member]**, [Author 3]. (2024). "[Poster Title]." *[Conference Name]*, Location. [Date].
-
-2. **[Lab Member]**, [Author 2]. (2024). "[Poster Title]." *[Conference Name]*, Location. [Date].
-
-## Workshops & Tutorials
-
-### 2025
-
-1. **[Lab Member]**. (2025). "[Workshop Title]." *[Conference or Event Name]*, Location. [Date].
-
-### 2024
-
-1. **[Lab Member]**. (2024). "[Tutorial Title]." *[Conference or Event Name]*, Location. [Date].
-
-*Note: This page is a template. The lab will populate it with actual conference contributions.*
+To add a new conference publication, create a markdown file in the `publications/papers/` directory with appropriate front matter including `pub_type: conference` and any relevant topic tags.

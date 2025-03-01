@@ -11,6 +11,7 @@ authors:
 date: 2024-01-15
 journal: Nature Methods
 doi: 10.1038/s41592-023-01987-x
+pub_type: journal
 ---
 
 # Deep learning approaches for single-cell RNA-seq analysis
