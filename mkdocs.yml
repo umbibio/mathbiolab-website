@@ -8,6 +8,9 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+  custom_dir: overrides
+  extra_css:
+    - assets/stylesheets/extra.css
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -28,10 +31,39 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Documentation: 
-    - Getting Started: docs/getting-started.md
-    - User Guide: docs/user-guide.md
+  - Research: 
+    - Overview: research/overview.md
+    - Projects: research/projects.md
+    - Computational Methods: research/methods.md
+  - People:
+    - Faculty: people/faculty.md
+    - Students: people/students.md
+    - Alumni: people/alumni.md
+    - By Research Interest: people/by-research.md
+  - Publications:
+    - Journal Articles: publications/articles.md
+    - Conference Papers: publications/conferences.md
+    - Software & Resources: publications/resources.md
+    - By Topic: publications/by-topic.md
+  - News & Events: news.md
+  - Contact: contact.md
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+  - blog:
+      blog_dir: news
+      blog_toc: true
+      post_dir: posts
+      post_date_format: medium
+      post_url_format: "{date}/{slug}"
+      categories: true
+      categories_name: Categories
+      archive: true
+      archive_name: Archive
+      pagination_per_page: 5
+      authors_file: news/authors.yml
 
 markdown_extensions:
   - meta
@@ -40,3 +72,10 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes

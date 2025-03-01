@@ -1,13 +1,19 @@
-# Welcome to UMBiBio
+# Mathematics and Biology Lab at UMass Boston
 
-Welcome to our website! This is your homepage where you can provide an overview of your project or organization.
+Welcome to the MathBioLab at the University of Massachusetts Boston. Our lab focuses on computational biology research, combining mathematical modeling, statistical analysis, and computational methods to address fundamental questions in biology.
 
-## Features
+## Research Focus
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Mathematical modeling of biological systems
+- Computational genomics and transcriptomics
+- Machine learning applications in biology
+- Systems biology approaches
 
-## Getting Started
+## Latest News
 
-Check out our [Getting Started](docs/getting-started.md) guide to begin.
+- **March 2025**: Website launch - Stay tuned for updates!
+- **Coming Soon**: Research highlights and publications
+
+## Join Us
+
+We are always looking for motivated students and collaborators. Check out our [Contact](contact.md) page for more information on opportunities.
