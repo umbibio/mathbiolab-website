@@ -1,5 +1,6 @@
 ---
 tags:
+  - Conference Article
   - Machine Learning
   - Genomics
   - Visualization
@@ -10,7 +11,6 @@ authors:
   - Wang R
 date: 2024-06-15
 conference: International Conference on Intelligent Systems for Molecular Biology (ISMB)
-pub_type: conference
 ---
 
 # Interactive visualization tools for single-cell data analysis

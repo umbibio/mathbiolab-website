@@ -9,7 +9,6 @@ authors:
   - Smith J
   - Chen M
 date: 2024-03-10
-pub_type: software
 repo_url: https://github.com/mathbiolab/netViz
 doi: 10.5281/zenodo.1234567
 ---

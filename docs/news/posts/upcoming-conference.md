@@ -38,4 +38,4 @@ Boston, MA
 
 For more information about the conference, visit [www.iccb2025.org](http://www.example.com).
 
-If you're attending the conference and would like to meet with our team, please [contact us](../../contact.md) to arrange a meeting.
+If you're attending the conference and would like to meet with our team, please [contact us](../../contact/index.md) to arrange a meeting.

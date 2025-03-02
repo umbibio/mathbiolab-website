@@ -39,14 +39,14 @@ nav:
     - Lab Members: people/index.md
     - By Research Interest: people/by-research.md
   - Publications:
-    - Journal Articles: publications/articles.md
-    - Conference Papers: publications/conferences.md
+    - Articles: publications/articles.md
+    - Conferences: publications/conferences.md
     - Software & Resources: publications/resources.md
     - By Topic: publications/by-topic.md
   - News & Events:
     - news/index.md
-  - About: about.md
-  - Contact: contact.md
+  - About: about/
+  - Contact: contact/
 
 plugins:
   - search
@@ -80,3 +80,5 @@ markdown_extensions:
   - md_in_html
   - tables
   - footnotes
+  - pymdownx.blocks.caption
+

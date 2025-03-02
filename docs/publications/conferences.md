@@ -16,7 +16,3 @@ In addition to full papers, our lab members regularly present their work at conf
 - **Invited Talks**: Presentations given by lab members at the invitation of conference organizers
 - **Poster Presentations**: Visual presentations of research results
 - **Workshops & Tutorials**: Educational sessions led by lab members
-
-## Add New Conference Publications
-
-To add a new conference publication, create a markdown file in the `publications/papers/` directory with appropriate front matter including `pub_type: conference` and any relevant topic tags.

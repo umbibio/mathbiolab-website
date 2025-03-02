@@ -41,7 +41,7 @@ Building on our expertise in systems biology, we're expanding into translational
 
 ## Opportunities for Collaboration
 
-These new research directions open up exciting opportunities for collaboration. If you're working in related areas and interested in potential collaborations, please don't hesitate to [reach out](../../contact.md).
+These new research directions open up exciting opportunities for collaboration. If you're working in related areas and interested in potential collaborations, please don't hesitate to [reach out](../../contact/index.md).
 
 I look forward to sharing more about these initiatives as they develop throughout 2025.
 

@@ -16,4 +16,4 @@ Welcome to the MathBioLab at the University of Massachusetts Boston. Our lab foc
 
 ## Join Us
 
-We are always looking for motivated students and collaborators. Check out our [Contact](contact.md) page for more information on opportunities.
+We are always looking for motivated students and collaborators. Check out our [Contact](contact/index.md) page for more information on opportunities.

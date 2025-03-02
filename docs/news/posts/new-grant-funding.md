@@ -34,6 +34,6 @@ This funding will create new opportunities for:
 - Postdoctoral positions (1 position)
 - Undergraduate research experiences
 
-Interested candidates should visit our [Contact](../../contact.md) page for information on how to apply.
+Interested candidates should visit our [Contact](../../contact/index.md) page for information on how to apply.
 
 We are excited about this opportunity to advance the field of multi-omics research and look forward to sharing our progress as the project develops.
