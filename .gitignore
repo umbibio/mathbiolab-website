@@ -3,6 +3,7 @@
 
 # with some exceptions
 !.git*
+!.*.yml
 
 # generated files
 site/
