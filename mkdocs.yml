@@ -1,4 +1,6 @@
 site_name: MathBioLab at UMass Boston
+site_url: "https://mathbiolab.org"
+
 theme:
   name: material
   logo: assets/images/logo.png
