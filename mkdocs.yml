@@ -31,7 +31,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Research: 
+  - Research:
     - Overview: research/overview.md
     - Projects: research/projects.md
     - Computational Methods: research/methods.md
@@ -45,7 +45,9 @@ nav:
     - Conference Papers: publications/conferences.md
     - Software & Resources: publications/resources.md
     - By Topic: publications/by-topic.md
-  - News & Events: news/
+  - News & Events:
+    - news/index.md
+  - About: about.md
   - Contact: contact.md
 
 plugins:
@@ -55,7 +57,7 @@ plugins:
   - blog:
       blog_dir: news
       blog_toc: true
-      post_dir: posts
+      post_dir: "{blog}/posts"
       post_date_format: medium
       post_url_format: "{date}/{slug}"
       categories: true
@@ -63,7 +65,7 @@ plugins:
       archive: true
       archive_name: Archive
       pagination_per_page: 5
-      authors_file: news/authors.yml
+      authors_file: "{blog}/.authors.yml"
 
 markdown_extensions:
   - meta
@@ -73,7 +75,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
   - admonition
   - attr_list
   - md_in_html
