@@ -2,4 +2,4 @@
 
 Below are some of our ongoing research projects. This page will be updated regularly as projects evolve and new initiatives begin.
 
-<!-- material/tags { include: [Project] } -->
+<!-- material/tags { scope: true, include: [Project] } -->

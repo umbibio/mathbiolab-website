@@ -5,6 +5,6 @@ This page lists our lab's peer-reviewed journal publications. Lab members' names
 <!-- Publications are automatically populated based on the pub_type tag -->
 <!-- Each publication file should have pub_type: journal in its front matter -->
 
-<!-- material/tags { include: [Journal Article] } -->
+<!-- material/tags { scope: true, include: [Journal Article] } -->
 
-<!-- material/tags { include: [Conference Article] } -->
+<!-- material/tags { scope: true, include: [Conference Article] } -->
