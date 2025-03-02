@@ -39,7 +39,7 @@ Investigating how transfer learning approaches can be used to leverage data from
 
 ## Teaching Experience
 
-- Teaching Assistant, BIOL 443: Computational Biology (Spring 2024)
+- Teaching Assistant, BIOL 4242: Computational Biology (Spring 2024)
 - Teaching Assistant, CS 341: Introduction to Machine Learning (Fall 2023)
 
 ## Awards and Honors
