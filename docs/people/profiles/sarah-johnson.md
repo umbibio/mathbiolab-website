@@ -7,27 +7,20 @@ role: alumni
 
 # Dr. Sarah Johnson
 
-<div class="profile-container">
-    <div class="profile-image">
-        <img src="../../../assets/images/people/placeholder.png" alt="Dr. Sarah Johnson">
-    </div>
-    <div class="profile-content">
-        <p><strong>Current Position:</strong> Assistant Professor, Department of Computational Biology, Stanford University</p>
-        <p><strong>Education:</strong></p>
-        <ul>
-            <li>Ph.D. in Computational Biology, UMass Boston, 2023</li>
-            <li>M.S. in Bioinformatics, Boston University, 2019</li>
-            <li>B.S. in Biology, MIT, 2017</li>
-        </ul>
-        <p><strong>Research at MathBioLab:</strong> Systems biology approaches to model gene regulatory networks in cancer</p>
-        <p><strong>Email:</strong> sarah.johnson@stanford.edu</p>
-        <p><strong>Links:</strong> 
-            <a href="https://scholar.google.com/citations?user=example" target="_blank">Google Scholar</a> | 
-            <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a> | 
-            <a href="https://github.com/sarahjohnson" target="_blank">GitHub</a>
-        </p>
-    </div>
-</div>
+![Dr. Sarah Johnson](../../../assets/images/people/placeholder.png)
+
+**Current Position:** Assistant Professor, Department of Computational Biology, Stanford University
+
+**Education:**
+- Ph.D. in Computational Biology, UMass Boston, 2023
+- M.S. in Bioinformatics, Boston University, 2019
+- B.S. in Biology, MIT, 2017
+
+**Research at MathBioLab:** Systems biology approaches to model gene regulatory networks in cancer
+
+**Email:** sarah.johnson@stanford.edu
+
+**Links:** [Google Scholar](#) | [ORCID](#) | [GitHub](#)
 
 ## Biography
 

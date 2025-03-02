@@ -8,21 +8,15 @@ role: Student
 
 # Michael Chen
 
-<div class="profile-container">
-    <div class="profile-image">
-        <img src="../../../assets/images/people/placeholder.png" alt="Michael Chen">
-    </div>
-    <div class="profile-content">
-        <p><strong>Program:</strong> Ph.D. in Computational Biology, started 2023</p>
-        <p><strong>Research Focus:</strong> Machine learning approaches for integrative analysis of multi-omics data</p>
-        <p><strong>Email:</strong> michael.chen001@umb.edu</p>
-        <p><strong>Links:</strong> 
-            <a href="https://github.com/michaelchen" target="_blank">GitHub</a> | 
-            <a href="https://linkedin.com/in/michaelchen" target="_blank">LinkedIn</a>
-        </p>
-    </div>
-</div>
+![Michael Chen](../../../assets/images/people/placeholder.png)
 
+**Program:** Ph.D. in Computational Biology, started 2023
+
+**Research Focus:** Machine learning approaches for integrative analysis of multi-omics data
+
+**Email:** michael.chen001@umb.edu
+
+**Links:** [GitHub](#) | [LinkedIn](#)
 ## Biography
 
 Michael joined the MathBioLab in Fall 2023 after completing his Master's degree in Computer Science at Boston University. His research focuses on developing novel machine learning methods for integrating and analyzing multi-omics datasets, with a particular interest in applications to cancer genomics.

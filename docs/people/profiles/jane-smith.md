@@ -8,28 +8,22 @@ role: Faculty
 
 # Dr. Jane Smith
 
-<div class="profile-container">
-    <div class="profile-image">
-        <img src="../../../assets/images/people/placeholder.png" alt="Dr. Jane Smith">
-    </div>
-    <div class="profile-content">
-        <p><strong>Position:</strong> Associate Professor, Department of Biology</p>
-        <p><strong>Education:</strong></p>
-        <ul>
-            <li>Ph.D. in Computational Biology, Stanford University, 2015</li>
-            <li>M.S. in Computer Science, MIT, 2010</li>
-            <li>B.S. in Mathematics, University of Washington, 2008</li>
-        </ul>
-        <p><strong>Research Interests:</strong> Computational genomics, machine learning in biology, systems biology</p>
-        <p><strong>Email:</strong> jane.smith@umb.edu</p>
-        <p><strong>Links:</strong> 
-            <a href="https://scholar.google.com/citations?user=example" target="_blank">Google Scholar</a> | 
-            <a href="https://orcid.org/0000-0000-0000-0000" target="_blank">ORCID</a> | 
-            <a href="https://github.com/jane-smith" target="_blank">GitHub</a> | 
-            <a href="../../../assets/docs/cv-jane-smith.pdf" target="_blank">CV</a>
-        </p>
-    </div>
-</div>
+![Jane Smith](../../../assets/images/people/placeholder.png)
+
+
+**Position:** Associate Professor, Department of Biology
+
+**Education:**
+
+- Ph.D. in Computational Biology, Stanford University, 2015
+- M.S. in Computer Science, MIT, 2010
+- B.S. in Mathematics, University of Washington, 2008
+
+**Research Interests:** Computational genomics, machine learning in biology, systems biology
+
+**Email:** jane.smith@umb.edu
+
+**Links:** [Google Scholar](#) | [ORCID](#) | [GitHub](#) | [CV](#)
 
 ## Biography
 
