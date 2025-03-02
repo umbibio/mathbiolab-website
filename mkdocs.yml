@@ -62,7 +62,7 @@ plugins:
       archive: true
       archive_name: Archive
       pagination_per_page: 5
-      authors_file: "{blog}/.authors.yml"
+      authors_file: ".authors.yml"
   - blog:
       blog_dir: publications
       blog_toc: true
@@ -74,7 +74,7 @@ plugins:
       archive: true
       archive_name: "Publication Year"
       pagination_per_page: 5
-      authors_file: "{blog}/.authors.yml"
+      authors_file: ".authors.yml"
 
 markdown_extensions:
   - meta
