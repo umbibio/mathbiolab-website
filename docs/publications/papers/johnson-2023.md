@@ -1,14 +1,12 @@
 ---
-tags:
-  - Journal Article
+categories:
   - Network Analysis
   - Multi-omics
-  - 2023
 authors:
-  - Johnson A
-  - Smith J
-  - Wang R
-  - Zhang L
+  - ajohnson
+  - jsmith
+  - rwang
+  - lzhang
 date: 2023-05-20
 journal: Genome Research
 doi: 10.1101/gr.276392.123
@@ -21,6 +19,9 @@ doi: 10.1101/gr.276392.123
 **Journal**: Genome Research, 33(1), 78-89 (2023)
 
 **DOI**: [10.1101/gr.276392.123](https://doi.org/10.1101/gr.276392.123)
+
+<!-- more -->
+
 
 ## Abstract
 

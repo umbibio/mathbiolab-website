@@ -1,14 +1,12 @@
 ---
-tags:
-  - Conference Article
+categories:
   - Machine Learning
   - Genomics
   - Visualization
-  - 2024
 authors:
-  - Chen M
-  - Smith J
-  - Wang R
+  - mchen
+  - jsmith
+  - rwang
 date: 2024-06-15
 conference: International Conference on Intelligent Systems for Molecular Biology (ISMB)
 ---
@@ -22,6 +20,9 @@ conference: International Conference on Intelligent Systems for Molecular Biolog
 **Location**: Boston, MA, USA
 
 **Paper Type**: Full Paper (Oral Presentation)
+
+<!-- more -->
+
 
 ## Abstract
 

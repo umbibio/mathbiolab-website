@@ -1,13 +1,11 @@
 ---
-tags:
-  - Software
+categories:
   - Network Analysis
   - Systems Biology
-  - 2024
 authors:
-  - Wang R
-  - Smith J
-  - Chen M
+  - rwang
+  - jsmith
+  - mchen
 date: 2024-03-10
 repo_url: https://github.com/mathbiolab/netViz
 doi: 10.5281/zenodo.1234567
@@ -22,6 +20,8 @@ doi: 10.5281/zenodo.1234567
 **DOI**: [10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
 
 **Repository**: [GitHub - mathbiolab/netViz](https://github.com/mathbiolab/netViz)
+
+<!-- more -->
 
 ## Overview
 

@@ -1,0 +1,35 @@
+authors:
+  mathbiolab:
+    name: MathBioLab Team
+    description: Official announcements from the Mathematics and Biology Lab
+    avatar: ../../assets/images/logo.png
+
+  jsmith:
+    name: Dr. Jane Smith
+    description: Principal Investigator, MathBioLab
+    avatar: ../../assets/images/people/placeholder.png
+    url: https://example.com/jsmith
+  
+  rwang:
+    name: Dr. Robert Wang
+    description: Member, MathBioLab
+    avatar: ../../assets/images/people/placeholder.png
+    url: https://example.com/rwang
+  
+  lzhang:
+    name: Dr. Liangzhao Zhang
+    description: Member, MathBioLab
+    avatar: ../../assets/images/people/placeholder.png
+    url: https://example.com/lzhang
+  
+  mchen:
+    name: Dr. Michael Chen
+    description: Member, MathBioLab
+    avatar: ../../assets/images/people/placeholder.png
+    url: https://example.com/mchen
+  
+  ajohnson:
+    name: Dr. Alan Johnson
+    description: Member, MathBioLab
+    avatar: ../../assets/images/people/placeholder.png
+    url: https://example.com/ajohnson

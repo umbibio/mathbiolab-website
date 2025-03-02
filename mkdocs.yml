@@ -39,16 +39,14 @@ nav:
     - Lab Members: people/index.md
     - By Research Interest: people/by-research.md
   - Publications:
-    - Articles: publications/articles.md
-    - Conferences: publications/conferences.md
-    - Software & Resources: publications/resources.md
-    - By Topic: publications/by-topic.md
+    - publications/index.md
   - News & Events:
     - news/index.md
   - About: about/
   - Contact: contact/
 
 plugins:
+  - meta
   - search
   - tags:
       scope: true
@@ -63,6 +61,18 @@ plugins:
       categories_name: Categories
       archive: true
       archive_name: Archive
+      pagination_per_page: 5
+      authors_file: "{blog}/.authors.yml"
+  - blog:
+      blog_dir: publications
+      blog_toc: true
+      post_dir: "{blog}/papers"
+      post_date_format: medium
+      post_url_format: "{date}/{slug}"
+      categories: true
+      categories_name: Topics
+      archive: true
+      archive_name: "Publication Year"
       pagination_per_page: 5
       authors_file: "{blog}/.authors.yml"
 

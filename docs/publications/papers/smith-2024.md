@@ -1,15 +1,10 @@
 ---
-tags:
-  - Journal Article
+date: 2024-12-15
+categories:
   - Genomics
   - Machine Learning
-  - 2024
 authors:
-  - Smith J
-  - Johnson A
-  - Garcia M
-  - Lee H
-date: 2024-01-15
+  - jsmith
 journal: Nature Methods
 doi: 10.1038/s41592-023-01987-x
 ---
@@ -21,6 +16,9 @@ doi: 10.1038/s41592-023-01987-x
 **Journal**: Nature Methods, 21(3), 234-241 (2024)
 
 **DOI**: [10.1038/s41592-023-01987-x](https://doi.org/10.1038/s41592-023-01987-x)
+
+
+<!-- more -->
 
 ## Abstract
 
