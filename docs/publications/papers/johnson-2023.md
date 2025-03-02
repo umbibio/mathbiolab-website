@@ -1,7 +1,7 @@
 ---
 tags:
-  - network-analysis
-  - multi-omics
+  - Network Analysis
+  - Multi-omics
   - 2023
 authors:
   - Johnson A

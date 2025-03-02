@@ -30,7 +30,7 @@ The grant will support the following key research objectives:
 
 This funding will create new opportunities for:
 
-- Graduate student positions (2 PhD students)
+- Graduate Student positions (2 PhD students)
 - Postdoctoral positions (1 position)
 - Undergraduate research experiences
 

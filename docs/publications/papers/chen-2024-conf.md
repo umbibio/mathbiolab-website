@@ -1,8 +1,8 @@
 ---
 tags:
-  - machine-learning
-  - genomics
-  - visualization
+  - Machine Learning
+  - Genomics
+  - Visualization
   - 2024
 authors:
   - Chen M

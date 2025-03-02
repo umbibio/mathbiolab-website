@@ -1,9 +1,9 @@
 ---
 tags:
-  - faculty
-  - principal-investigator
-  - computational-genomics
-role: faculty
+  - Faculty
+  - Principal Investigator
+  - Computational Genomics
+role: Faculty
 ---
 
 # Dr. Jane Smith

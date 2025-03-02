@@ -1,8 +1,8 @@
 ---
 tags:
-  - software
-  - network-analysis
-  - systems-biology
+  - Software
+  - Network Analysis
+  - Systems Biology
   - 2024
 authors:
   - Wang R

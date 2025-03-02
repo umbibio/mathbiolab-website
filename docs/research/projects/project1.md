@@ -1,7 +1,8 @@
 ---
 tags:
-  - genomics
-  - machine-learning
+  - Project
+  - Genomics
+  - Machine Learning
 ---
 
 # Computational Models for Gene Expression Analysis

@@ -4,11 +4,11 @@ This page organizes our publications by research area and topic.
 
 ## Genomics
 
-<!-- material/tags { include: [genomics] } -->
+<!-- material/tags { include: [Genomics] } -->
 
 ## Machine Learning
 
-<!-- material/tags { include: [machine-learning] } -->
+<!-- material/tags { include: [Machine Learning] } -->
 
 ## Network Analysis
 

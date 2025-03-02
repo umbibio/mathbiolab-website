@@ -1,7 +1,7 @@
 ---
 tags:
-  - genomics
-  - machine-learning
+  - Genomics
+  - Machine Learning
   - 2024
 authors:
   - Smith J

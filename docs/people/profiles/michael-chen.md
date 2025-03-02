@@ -1,9 +1,9 @@
 ---
 tags:
-  - student
-  - phd-student
-  - machine-learning
-role: student
+  - Student
+  - PhD Student
+  - Machine Learning
+role: Student
 ---
 
 # Michael Chen

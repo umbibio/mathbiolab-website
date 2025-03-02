@@ -18,7 +18,7 @@ We are excited to announce the launch of our new Mathematics and Biology Lab web
 Our new website includes:
 
 - Detailed information about our research areas and ongoing projects
-- Profiles of our faculty, students, and alumni
+- Profiles of our Faculty, students, and alumni
 - Comprehensive list of publications and resources
 - Latest news and upcoming events
 - Contact information for inquiries and collaborations

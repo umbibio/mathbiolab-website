@@ -1,8 +1,7 @@
 ---
 tags:
-  - alumni
-  - phd-graduate
-  - systems-biology
+  - Alumni/PhD Graduate
+  - Systems Biology
 role: alumni
 ---
 
@@ -32,7 +31,7 @@ role: alumni
 
 ## Biography
 
-Dr. Sarah Johnson was a Ph.D. student in the MathBioLab from 2019 to 2023, where she worked on developing systems biology approaches to model gene regulatory networks in cancer. Her dissertation, titled "Integrative Modeling of Gene Regulatory Networks in Triple Negative Breast Cancer," combined mathematical modeling with multi-omics data integration.
+Dr. Sarah Johnson was a Ph.D. Student in the MathBioLab from 2019 to 2023, where she worked on developing systems biology approaches to model gene regulatory networks in cancer. Her dissertation, titled "Integrative Modeling of Gene Regulatory Networks in Triple Negative Breast Cancer," combined mathematical modeling with multi-omics data integration.
 
 After completing her Ph.D., Dr. Johnson joined Stanford University as an Assistant Professor in the Department of Computational Biology, where she continues her research on systems biology approaches to understand complex diseases.
 
