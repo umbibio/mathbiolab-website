@@ -1,21 +1,19 @@
 # Contact Us
 
-We welcome inquiries about our research, potential collaborations, and opportunities to join our lab. Please find our contact information below.
+We welcome inquiries about our research, and opportunities to join our lab. Please find our contact information below.
 
 ## Lab Director
 
-**[Principal Investigator Name], Ph.D.**  
-Associate Professor  
-Department of [Department]  
+**Prof. Kourosh Zarringhalam**, Ph.D.  
+Department of Mathematics  
 University of Massachusetts Boston  
-Email: firstname.lastname@umb.edu  
-Office: [Building and Room Number]  
-Phone: [Phone Number]
+Email: kourosh.zarringhalam@umb.edu  
+Office: Wheatley 3-154-12  
+Phone: (617) 287-7460
 
 ## Lab Location
 
-**Mathematics and Biology Lab**  
-[Building Name], Room [Room Number]  
+**Mathematical Biology Lab**  
 University of Massachusetts Boston  
 100 Morrissey Boulevard  
 Boston, MA 02125
@@ -26,7 +24,7 @@ Boston, MA 02125
 
 ## For Prospective Students
 
-We are always looking for motivated graduate and undergraduate students to join our lab. If you are interested in our research and would like to explore opportunities, please contact Professor [Last Name] with the following information:
+We are always looking for motivated graduate and undergraduate students to join our lab. If you are interested in our research and would like to explore opportunities, please contact Professor Kourosh Zarringhalam directly. We encourage you to submit a cover letter with the following information:
 
 1. Your CV or resume
 2. A brief statement of your research interests and why you are interested in joining our lab
@@ -35,26 +33,14 @@ We are always looking for motivated graduate and undergraduate students to join 
 
 ### Graduate Students
 
-Prospective graduate students should apply to the [Department] graduate program at UMass Boston. Please mention your interest in the Mathematics and Biology Lab in your application.
+Prospective graduate students should apply to the [Computational Sciences graduate program](https://catalog.umb.edu/preview_entity.php?catoid=53&ent_oid=6197){target="_blank"} at UMass Boston. Please mention your interest in the Mathematical Biology Lab in your application.
 
-[Link to Graduate Program Application]
+[Link to Graduate Program Application](https://www.umb.edu/academics/program-finder/computational-sciences-phd/){target="_blank"}
 
 ### Undergraduate Students
 
-Undergraduate students at UMass Boston interested in research opportunities should email Professor [Last Name] directly to discuss potential projects.
-
-## For Potential Collaborators
-
-We are interested in collaborations with other research groups in academia and industry. Please contact Professor [Last Name] to discuss potential collaborative projects.
+Undergraduate students at UMass Boston interested in research opportunities should email Professor Kourosh Zarringhalam directly to discuss potential projects.
 
 ## For Media Inquiries
 
-For media inquiries, please contact:
-
-[Media Contact Person]  
-Office of Communications  
-University of Massachusetts Boston  
-Email: communications@umb.edu  
-Phone: [Phone Number]
-
-*Note: This page is a template. The lab will update it with actual contact information.*
+For media inquiries, please contact the University of Massachusetts Boston's [Office of Communications](https://www.umb.edu/marketing/communications/){target="_blank"}.

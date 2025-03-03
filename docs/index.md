@@ -1,4 +1,4 @@
-# Mathematics and Biology Lab at UMass Boston
+# Mathematical Biology Lab at UMass Boston
 
 Welcome to the MathBioLab at the University of Massachusetts Boston. Our lab focuses on computational biology research, combining mathematical modeling, statistical analysis, and computational methods to address fundamental questions in biology.
 

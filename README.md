@@ -1,4 +1,4 @@
-# Mathematics and Biology Lab (MathBioLab) Website
+# Mathematical Biology Lab (MathBioLab) Website
 
 This repository contains the source code for the MathBioLab website at the University of Massachusetts Boston. The site is built using [MkDocs Material](https://squidfunk.github.io/mkdocs-material/), a modern static site generator optimized for technical documentation.
 

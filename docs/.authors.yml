@@ -1,35 +1,124 @@
 authors:
   mathbiolab:
     name: MathBioLab Team
-    description: Official announcements from the Mathematics and Biology Lab
-    avatar: ../../assets/images/logo.png
+    description: Official announcements from the Mathematical Biology Lab
+    avatar: /assets/images/logo.png
 
-  jsmith:
-    name: Dr. Jane Smith
-    description: Principal Investigator, MathBioLab
-    avatar: ../../assets/images/people/placeholder.png
-    url: https://example.com/jsmith
-  
-  rwang:
-    name: Dr. Robert Wang
-    description: Member, MathBioLab
-    avatar: ../../assets/images/people/placeholder.png
-    url: https://example.com/rwang
-  
-  lzhang:
-    name: Dr. Liangzhao Zhang
-    description: Member, MathBioLab
-    avatar: ../../assets/images/people/placeholder.png
-    url: https://example.com/lzhang
-  
-  mchen:
-    name: Dr. Michael Chen
-    description: Member, MathBioLab
-    avatar: ../../assets/images/people/placeholder.png
-    url: https://example.com/mchen
-  
-  ajohnson:
-    name: Dr. Alan Johnson
-    description: Member, MathBioLab
-    avatar: ../../assets/images/people/placeholder.png
-    url: https://example.com/ajohnson
+  # MathBioLab authors and collaborators
+  kzarringhalam:
+    name: Kourosh Zarringhalam
+    description: Department of Mathematics, UMass Boston
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZF7_WeYAAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=ZF7_WeYAAAAJ
+
+  aarriojas:
+    name: Argenis Arriojas
+    description: Postdoctoral Fellow, CPCT, UMass Boston
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=GMaw2_kAAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=GMaw2_kAAAAJ
+
+  ddegras:
+    name: David Degras
+    description: University of Massachusetts Boston
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CYLjVg4AAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=CYLjVg4AAAAJ
+
+  yrezvani:
+    name: Yasaman Rezvani
+    description: University of Massachusetts Boston
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=muxfPDcAAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=muxfPDcAAAAJ
+
+  mjgubbels:
+    name: Marc-Jan Gubbels
+    description: Professor, Boston College
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FubxXb4AAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=FubxXb4AAAAJ
+
+  mtduraisingh:
+    name: Manoj T Duraisingh
+    description: Professor, Harvard University
+    avatar: https://connects.catalyst.harvard.edu/Profiles/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=1233376
+    url: https://hsph.harvard.edu/profile/manoj-t-duraisingh/
+
+  ckeroack:
+    name: Caroline Keroack
+    description: Postdoctoral Fellow, Brown University
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jXR_CRYAAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=jXR_CRYAAAAJ
+
+  belsworth:
+    name: Brendan Elsworth
+    description: Food and Drug Administration
+    avatar: https://scholar.google.com/citations/images/avatar_scholar_128.png
+    url: https://scholar.google.com/citations?user=-VMsXuQAAAAJ
+
+  jlou:
+    name: Jingjing Lou
+    description: Boston College
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=P0IeWHYAAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=P0IeWHYAAAAJ
+
+  jmacoska:
+    name: Jill Macoska
+    description: Professor of Biology, UMass Boston
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=O4b0zjoAAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=O4b0zjoAAAAJ
+
+  spalatano:
+    name: Susan Palatano
+    description: University of Massachusetts Boston
+    avatar: https://media.licdn.com/dms/image/v2/D4E03AQHmm5wH-c94Kg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1668266260243?e=1746662400&v=beta&t=i7AsL5itAJAW7lNsU07G-4SSOG7hdYgXlhSzTGIpPhw
+
+  ywu:
+    name: Yihan Wu
+    description: China Agricultural University
+    avatar: https://static.wixstatic.com/media/eac205_6451168f00514e94a77a39468338474c~mv2.jpg/v1/fill/w_143,h_190,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Yihan1.jpg
+    url: https://scholar.google.com/citations?user=q2NwLhwAAAAJ
+
+  gecheverria:
+    name: Gloria Echeverria
+    description: The University of Texas MD Anderson Cancer Center
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Xjukbi0AAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=Xjukbi0AAAAJ
+
+  mlbaek:
+    name: Lily Baek
+    description: Baylor College of Medicine
+    avatar: https://cdn.bcm.edu/sites/default/files/profile_photos/mokryunb.jpeg
+    url: https://www.bcm.edu/people-search/lily-baek-17910
+
+  ahinton:
+    name: Antentor Hinton
+    description: Assistant Professor at Vanderbilt University
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ITRAI68AAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=ITRAI68AAAAJ
+
+  mdmeyer:
+    name: Matthew D. Meyer
+    description: Rice University
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=yczR7fEAAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=yczR7fEAAAAJ
+
+  mtlewis:
+    name: Michael T. Lewis
+    description: Baylor College of Medicine
+    avatar: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xJ9WVf8AAAAJ&citpid=1
+    url: https://scholar.google.com/citations?user=xJ9WVf8AAAAJ
+
+  mjberner:
+    name: Mariah Berner
+    description: Baylor College of Medicine
+    avatar: https://cdn.bcm.edu/sites/default/files/profile_photos/u234848.jpeg
+    url: https://www.bcm.edu/people-search/mariah-berner-55906
+
+  azhurkevich:
+    name: Alexander Zhurkevich
+    description: University of Massachusetts Boston
+    avatar: /assets/images/people/placeholder.png
+
+  ledobrolecki:
+    name: Lacey E. Dobrolecki
+    description: Baylor College of Medicine
+    avatar: https://cdn.bcm.edu/sites/default/files/profile_photos/dobrolec.jpeg
+    url: https://www.bcm.edu/people-search/lacey-dobrolecki-20616
