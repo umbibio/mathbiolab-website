@@ -1,5 +1,8 @@
 site_name: MathBioLab at UMass Boston
 site_url: "https://mathbiolab.org"
+copyright: Copyright © MathBioLab at UMass Boston, 2025
+extra:
+  generator: false
 
 theme:
   name: material
