@@ -1,0 +1,122 @@
+/* Custom styling for MathBioLab website */
+
+/* Profile containers for people pages */
+.profile-container {
+    display: flex;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.profile-image {
+    flex: 0 0 150px;
+    margin-right: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.profile-image img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid var(--md-accent-fg-color);
+}
+
+.profile-content {
+    flex: 1;
+    min-width: 300px;
+}
+
+/* Map container for contact page */
+.map-container {
+    width: 100%;
+    height: 450px;
+    margin: 2rem 0;
+}
+
+.map-container iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+/* Publication list styling */
+.publications-list li {
+    margin-bottom: 1rem;
+}
+
+/* News items */
+.news-item {
+    border-left: 4px solid var(--md-accent-fg-color);
+    padding-left: 1rem;
+    margin-bottom: 2rem;
+}
+
+/* Publication details */
+.publication-details {
+    background-color: rgba(0, 0, 0, 0.03);
+    padding: 1.5rem;
+    border-radius: 4px;
+    margin: 2rem 0;
+}
+
+.publication-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.publication-links a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: var(--md-primary-fg-color);
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+}
+
+.publication-links a:hover {
+    background-color: var(--md-accent-fg-color);
+}
+
+/* People profiles enhanced */
+.profile-container.detailed {
+    background-color: rgba(0, 0, 0, 0.03);
+    padding: 1.5rem;
+    border-radius: 4px;
+}
+
+.research-interests {
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.research-tag {
+    padding: 0.3rem 0.8rem;
+    background-color: var(--md-accent-fg-color);
+    color: white;
+    border-radius: 16px;
+    font-size: 0.8rem;
+}
+
+.news-date {
+    font-weight: bold;
+    color: var(--md-accent-fg-color);
+}
+
+/* Custom responsive adjustments */
+@media (max-width: 768px) {
+    .profile-container {
+        flex-direction: column;
+    }
+    
+    .profile-image {
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+}
