@@ -24,8 +24,6 @@ role: alumni
 
 **Research at MathBioLab:** Development of novel analysis methods and algorithms for epigenetics and gene regulatory programs in apicomplexan parasites
 
-**Email:** yasaman.rezvani66@gmail.com
-
 **Links:** [LinkedIn](https://www.linkedin.com/in/yasamanrezvani){target="_blank"} | [Google Scholar](https://scholar.google.com/citations?user=muxfPDcAAAAJ&hl=en){target="_blank"}
 
 ## Biography

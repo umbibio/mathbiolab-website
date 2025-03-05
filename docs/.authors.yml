@@ -122,3 +122,28 @@ authors:
     description: Baylor College of Medicine
     avatar: https://cdn.bcm.edu/sites/default/files/profile_photos/dobrolec.jpeg
     url: https://www.bcm.edu/people-search/lacey-dobrolecki-20616
+
+  vaprimojr:
+    name: Vincent A. Primo Jr.
+    description: Boston College
+    avatar: /assets/images/logo.png
+
+  afarrell:
+    name: Andrew Farrell
+    description: University of Utah
+    avatar: /assets/images/logo.png
+
+  cqmurphy:
+    name: Connor Q. Murphy
+    description: Boston College
+    avatar: /assets/images/logo.png
+
+  avajdi:
+    name: Amir Vajdi
+    description: University of Massachusetts Boston
+    avatar: /assets/images/logo.png
+
+  gtmarth:
+    name: Gabor T. Marth
+    description: University of Utah
+    avatar: /assets/images/logo.png
