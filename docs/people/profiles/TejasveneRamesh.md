@@ -50,6 +50,4 @@ Deshpande, D., Chhugani, K., **Ramesh, T**., Pellegrini, M., Shiffman, S., Abeda
 
 Huang, Y. N., Jaiswal, P. V., Rajesh, A., Yadav, A., Yu, D., Liu, F., Scheg, G., **Ramesh, T.**, Chhugani, K., Jönsson, V., & Mangul, S. (2021). The systematic assessment of completeness of public metadata accompanying omics studies. bioRxiv. https://doi.org/10.1101/2021.11.22.469640
 
-**Ramesh, T.**, Chhugani, K., Jönsson, V., & Mangul, S. (2020). Systematic overview of challenges and opportunities of computational data-driven research in biology. OSF Preprints. https://doi.org/10.31219/osf.io/xyz123
-
 
