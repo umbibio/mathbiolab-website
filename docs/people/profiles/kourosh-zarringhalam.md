@@ -7,32 +7,38 @@ tags:
   - Mathematical Modeling
 ---
 
-# Dr. Kourosh Zarringhalam
+# Kourosh Zarringhalam
 
-![Kourosh Zarringhalam](/assets/images/people/placeholder.png)
+![Kourosh Zarringhalam](/assets/images/people/k3.jpg){width=200 align=right margin-right=50px}
+<!-- <img src='/assets/images/people/k3.jpg' alt="Kourosh Zarringhalam" align="right" width=200 margin-right=50px/> -->
 
-**Position:** Professor, Department of Mathematics  
-**Role:** Graduate Program Director
+**Position:** Principle Investigator,  
+Professor, Department of Mathematics,  
+Center for Personalized Cancer Therapy,  
+Computational Sciences Graduate Program, Director  
 
 **Education:**
 
-- Ph.D. in Mathematics
+- Ph.D. in Mathematics, University of New Hampshire
 
 **Research Interests:** 
 
-- Mathematical biology
-- Computational algorithms for high-throughput molecular and imaging data
-- Parasitology and cancer biology
-- Methods of applied mathematics, including analysis, dynamics and signal processing
+- Applied Mathematics
+- Data Science, Machine Learning
+- Computational Parasitology and Cancer Biology
 
-**Email:** [kourosh.zarringhalam@umb.edu](mailto:kourosh.zarringhalam@umb.edu)  
-**Phone:** 617-287-7486  
-**Office:** S-3-94
+**Email:** [kourosh.zarringhalam@umb.edu](mailto:kourosh.zarringhalam@umb.edu){width=40}   
+**Office:**  
+
+- Department of Mathematics, Wheathley, 3rd floor  
+- Center for Personalized Cancer Therapy (CPCT), ISC, 4th floor
+  
+**Phone:** 617-287-7486
 
 **Links:** 
 [Personal Website](https://www.math.umb.edu/~kouroshz/) | 
 [Google Scholar](https://scholar.google.com/citations?user=ZF7_WeYAAAAJ) | 
-[Department Profile](https://www.math.umb.edu/people/faculty_homepage.php?id=165)
+
 
 ## Biography
 
@@ -42,10 +48,10 @@ Dr. Kourosh Zarringhalam is a Professor in the Department of Mathematics at the 
 
 The MathBioLab develops innovative computational approaches to solve complex biological problems. Current research areas include:
 
+- Computational approaches for parasitology research
 - Deep learning applications in cancer imaging and diagnostics
 - Transcriptional regulation and gene expression analysis
 - Mathematical modeling of biological systems
-- Computational approaches for parasitology research
 - Network-based analysis of biological data
 
 ## Selected Publications
@@ -57,18 +63,13 @@ The MathBioLab develops innovative computational approaches to solve complex bio
 5. Comparative chemical genomics in Babesia species identifies the alkaline phosphatase phoD as a novel determinant of resistance (2023), PNAS
 6. A Bayesian Noisy Logic Model for Inference of Transcription Factor Activity from Single Cell and Bulk Transcriptomic Data (2023), NAR Genomics & Bioinformatics
 
+<!--
 ## Teaching
 
 Dr. Zarringhalam teaches courses in applied mathematics, computational biology, and mathematical modeling at both undergraduate and graduate levels.
 
-## Collaborations
-
-Dr. Zarringhalam actively collaborates with researchers across disciplines, including:
-
-- Center for Personalized Cancer Therapy at UMass Boston
-- Computational biology research groups
-- Clinical research partners
 
 ## Lab Members
 
 Dr. Zarringhalam leads a diverse team of researchers, including postdoctoral fellows, graduate students, and undergraduate researchers working on various aspects of computational biology and mathematical modeling.
+-->
