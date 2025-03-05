@@ -2,7 +2,7 @@
 title: Aryan Kikaganeshwala
 tags:
   - Undergraduate Student
-  - Copmuter science
+  - Computer science
   - Large Language Models
   - Machine Learning
   - Neural Networks
