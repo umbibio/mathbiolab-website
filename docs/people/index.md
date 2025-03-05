@@ -4,6 +4,8 @@
 
 <!-- material/tags { scope: true, include: [Postdoctoral Fellow] } -->
 
+<!-- material/tags { scope: true, include: [Software Developer] } -->
+
 <!-- material/tags { scope: true, include: [Student] } -->
 
 <!-- material/tags { scope: true, include: [Alumni/PhD Graduate] } -->

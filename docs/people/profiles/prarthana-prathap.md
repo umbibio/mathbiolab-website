@@ -13,7 +13,7 @@ tags:
 
 # Prarthana Prathap
 
-![Prarthana Prathap](/assets/images/people/placeholder.png){align=right}
+<img src="/assets/images/people/profile-prarthana.jpeg" alt="Prarthana Prathap" align="right" width="150"/>
 
 **Position:** Software Developer, University of Massachusetts Boston  
 **Role:** Full-Stack Developer, Data Engineer
@@ -27,16 +27,15 @@ tags:
 
 **Skillset:**
 
-- **Programming Languages:** JavaScript, TypeScript, Python, C#, Java, BASH, PowerShell  
-- **Web Development:** Angular, React.js, Node.js, Express.js, Django, FastAPI, Spring Boot, Bootstrap, Material UI  
-- **Databases:** SQL (MySQL, PostgreSQL, SQLite), MongoDB, Snowflake  
-- **DevOps & Cloud:** Docker, AWS, Terraform, CI/CD (Git, GitHub Actions)  
-- **APIs & Integrations:** RESTful APIs, GraphQL, OAuth2, JSON, Swagger, Postman  
+- **Programming Languages:** JavaScript, TypeScript, Python, C#, Java, Shell scripting
+- **Web Development:** Angular, React.js, Node.js, Express.js, Django, FastAPI, Bootstrap, Material UI  
+- **Databases:** SQL (MySQL, PostgreSQL, SQLite) 
+- **DevOps & Cloud:** Docker, AWS, CI/CD (Git, GitHub Actions)  
+- **APIs & Integrations:** RESTful APIs, OAuth2, JSON, Swagger, Postman  
 - **Testing & Debugging:** Jasmine, Karma, JUnit  
 
 **Email:** [prarthana.prathap001@umb.edu](mailto:prarthana.prathap001@umb.edu)  
-**Links:**  
-[LinkedIn](https://www.linkedin.com/in/prarthanaprathap/) |
+**Links:** [LinkedIn](https://www.linkedin.com/in/prarthanaprathap/) |
 [GitHub](https://github.com/Prarthana-Prathap) |
 [Portfolio](https://prarthana-prathap.github.io/portfolio-website/)
 
