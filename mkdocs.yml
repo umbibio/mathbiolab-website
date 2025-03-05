@@ -47,7 +47,6 @@ nav:
     - publications/index.md
   - News & Events:
     - news/index.md
-  - About: about/
   - Contact: contact/
 
 plugins:
