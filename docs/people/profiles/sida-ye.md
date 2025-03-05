@@ -14,7 +14,7 @@ tags:
 
 ![Sida Ye](https://media.licdn.com/dms/image/v2/C5103AQFsmvZ3AF6G3g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1565708124632?e=1746662400&v=beta&t=GJ298qXpdQvwfMdpp8SF2dJnPeM28EGeDbqXWAXc3-o){align=right}
 
-**Position:** PhD Candidate  
+**Position:** Graudate student  
 **Role:** PhD Candidate in Computational Sciences, University of Massachusetts Boston
 
 ---
