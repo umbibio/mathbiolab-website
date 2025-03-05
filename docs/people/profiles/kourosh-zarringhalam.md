@@ -23,15 +23,17 @@ Computational Sciences Graduate Program, Director
 
 **Research Interests:** 
 
+- Computational Biology
+- Parasitology
+- Cancer Biology
 - Applied Mathematics
-- Data Science, Machine Learning
-- Computational Parasitology and Cancer Biology
+- Machine Learning
 
 **Email:** [kourosh.zarringhalam@umb.edu](mailto:kourosh.zarringhalam@umb.edu){width=40}   
 **Office:**  
 
 - Department of Mathematics, Wheathley, 3rd floor  
-- Center for Personalized Cancer Therapy (CPCT), ISC, 4th floor
+- Center for Personalized Cancer Therapy (CPCT), ISC, 4th floor Room 4740
   
 **Phone:** 617-287-7486
 
@@ -42,15 +44,16 @@ Computational Sciences Graduate Program, Director
 
 ## Biography
 
-Dr. Kourosh Zarringhalam is a Professor in the Department of Mathematics at the University of Massachusetts Boston. He leads the Mathematical Biology Lab (MathBioLab), which specializes in biological data science. His research focuses on developing mathematical models and computational algorithms to analyze high-throughput molecular and imaging data, with primary applications in parasitology and cancer biology.
+Dr. Kourosh Zarringhalam is a Professor in the Department of Mathematics and a member of the Center for Personalized Cancer Therapy (CPCT) at the University of Massachusetts Boston. He leads the Mathematical Biology Lab (MathBioLab). 
 
 ## Research Focus
 
 The MathBioLab develops innovative computational approaches to solve complex biological problems. Current research areas include:
 
-- Computational approaches for parasitology research
+- Computational approaches for parasitology research 
 - Deep learning applications in cancer imaging and diagnostics
-- Transcriptional regulation and gene expression analysis
+- Transcriptional gene regulation
+- Single cell analysis tools
 - Mathematical modeling of biological systems
 - Network-based analysis of biological data
 
