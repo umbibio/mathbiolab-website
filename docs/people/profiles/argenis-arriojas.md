@@ -14,7 +14,7 @@ tags:
 
 # Dr. Argenis A. Arriojas Maldonado
 
-![Argenis A. Arriojas Maldonado](/assets/images/people/placeholder.png){align=right}
+![Argenis A. Arriojas Maldonado](https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=GMaw2_kAAAAJ&citpid=2){align=right}
 
 **Position:** Postdoctoral Fellow, Center for Personalized Cancer Therapy  
 **Role:** Computational Biologist
