@@ -1,14 +1,13 @@
 ---
 title: "Sida Ye"
 tags:
-  - Visiting Student
   - PhD Candidate
   - Computational Biology
   - Bioinformatics
   - Mathematical Modeling
   - Machine Learning
   - Parasitology
-  - Genomics
+  - Transposon mutagenesis
 ---
 
 # **Sida Ye**
@@ -58,7 +57,7 @@ tags:
 
 ## **Biography**
 
-With 6 years of wet-lab experience and 4 years of computational research, Mr. Ye bridges experimental biology and advanced computational approaches. She has extensively studied the molecular mechanisms in plant development at Peking University and the University of Cambridge, and she is now focusing on parasitology and computational genomics at the University of Massachusetts Boston and Harvard T.H. Chan School of Public Health. Her primary research areas involve developing transposon mutagenesis pipelines, modeling gene essentiality, and exploring epigenetic regulation mechanisms.
+With 6 years of wet-lab experience and 4 years of computational research, Mr. Ye bridges experimental biology and advanced computational approaches. He has extensively studied the molecular mechanisms in plant development at Peking University and the University of Cambridge, and he is now focusing on parasitology and computational genomics at the University of Massachusetts Boston and Harvard T.H. Chan School of Public Health. His primary research areas involve developing transposon mutagenesis pipelines, modeling gene essentiality, and exploring epigenetic regulation mechanisms.
 
 ---
 
