@@ -1,10 +1,7 @@
-git pull -- rebase for "timeline" fixing
-
-
 ---
 title: Jason Lu
 tags:
-  - Undergraduate
+  - Undergraduate Student
   - Computational Biology
   - Lab Technician
 

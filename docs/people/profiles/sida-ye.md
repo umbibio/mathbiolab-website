@@ -1,7 +1,7 @@
 ---
 title: "Sida Ye"
 tags:
-  - PhD Candidate
+  - Graduate Student
   - Computational Biology
   - Bioinformatics
   - Mathematical Modeling
