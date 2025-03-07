@@ -25,6 +25,6 @@ Our new website includes:
 
 ## Get Involved
 
-We welcome feedback on the new website and invite you to explore the various sections. If you're interested in our research or joining our lab, please visit our [Contact page](/contact/index.md) for more information.
+We welcome feedback on the new website and invite you to explore the various sections. If you're interested in our research or joining our lab, please visit our [Contact page](../../contact/index.md) for more information.
 
 Stay tuned for more updates on our research and activities!

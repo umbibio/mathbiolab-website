@@ -10,7 +10,7 @@ tags:
 
 # Aryan Kikaganeshwala
 
-![Aryan Kikaganeshwala](/assets/images/people/placeholder.png){align=right}
+![Aryan Kikaganeshwala](../../assets/images/people/placeholder.png){align=right}
 
 **Position:** Undergraduate Student, University of Massachusetts Boston 
 **Role:** Undergraduate researcher

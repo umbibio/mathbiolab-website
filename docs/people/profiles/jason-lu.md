@@ -14,7 +14,7 @@ tags:
 [jason.lu002@umb.edu](mailto:jason.lu002@umb.edu)
 
 **Links**
-[LinkedIn](www.linkedin.com/in/jasonlu03) | 
+[LinkedIn](https://www.linkedin.com/in/jasonlu03) | 
 [GitHub](https://github.com/JaLuLus)
 
 **Education**

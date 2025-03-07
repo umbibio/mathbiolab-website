@@ -1,7 +1,7 @@
 ---
 title: Tejasvene Ramesh 
 tags:
-  - PhD Student 
+  - Graduate Student
   - Bioinformatics
   - Breast Cancer
   - Spatial Transcriptomics

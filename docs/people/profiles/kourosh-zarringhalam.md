@@ -9,7 +9,7 @@ tags:
 
 # Kourosh Zarringhalam
 
-![Kourosh Zarringhalam](/assets/images/people/k3.jpg){width=200 align=right margin-right=50px}
+![Kourosh Zarringhalam](../../assets/images/people/k3.jpg){width=200 align=right margin-right=50px}
 <!-- <img src='/assets/images/people/k3.jpg' alt="Kourosh Zarringhalam" align="right" width=200 margin-right=50px/> -->
 
 **Position:** Principle Investigator,  
