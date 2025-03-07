@@ -6,6 +6,7 @@ categories:
   - Website
 authors:
   - mathbiolab
+image: assets/images/logo.png
 ---
 
 # MathBioLab Website Launch

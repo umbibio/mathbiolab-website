@@ -16,7 +16,8 @@ authors:
   - gtmarth
   - kzarringhalam
   - mjgubbels
-journal: mSystems (2021)
+journal: mSystems 6:e01196-21 (2021)
+journal_url: https://journals.asm.org/doi/10.1128/msystems.01196-21
 doi: 10.1128/msystems.01196-21
 template: publication-post.html
 ---

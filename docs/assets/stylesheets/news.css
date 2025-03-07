@@ -76,8 +76,21 @@
 }
 
 .md-news-item .md-news-item__image {
-    margin: 1em 2em;
+    margin: 0em 0em 1em 0em;
+    display: block;
+    height: 150px;
+    line-height: 150px;
+    overflow: hidden;
 }
+
+.md-news-item .md-news-item__image img {
+    position: relative;
+    /* margin: -50% auto; */
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
 .md-news-item hr {
     margin: 0.5em 0;
 }
