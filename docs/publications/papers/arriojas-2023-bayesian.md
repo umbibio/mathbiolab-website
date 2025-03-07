@@ -1,4 +1,5 @@
 ---
+title: A Bayesian noisy logic model for inference of transcription factor activity from single cell and bulk transcriptomic data
 date: 2023-11-03
 categories:
   - Computational Biology
@@ -10,24 +11,18 @@ authors:
   - spalatano
   - jmacoska
   - kzarringhalam
-journal: NAR Genomics and Bioinformatics
+journal: NAR Genomics and Bioinformatics, 5(4), lqad106 (2023)  
 doi: 10.1093/nargab/lqad106
+# image: assets/images/publications/arriojas-2023-bayesian.jpeg
+template: publication-post.html
 ---
 
-# A Bayesian noisy logic model for inference of transcription factor activity from single cell and bulk transcriptomic data
-
-**Authors**: Arriojas A, Patalano S, Macoska J, Zarringhalam K
-
-**Journal**: NAR Genomics and Bioinformatics, 5(4), lqad106 (2023)
-
-**DOI**: [10.1093/nargab/lqad106](https://doi.org/10.1093/nargab/lqad106)
-
-
-<!-- more -->
 
 ## Abstract
 
 Transcription factors (TFs) play a crucial role in regulating gene expression, but inferring their activities from transcriptomic data remains challenging. Here, we present NLBayes, a Bayesian noisy logic framework for the inference of TF activities from both bulk and single-cell RNA sequencing data. Our approach models the complex regulatory interactions between TFs and their target genes using a probabilistic Boolean logic framework that accounts for the inherent noise and uncertainty in gene expression data. NLBayes incorporates prior knowledge of TF-target relationships and uses Markov Chain Monte Carlo (MCMC) sampling to infer the posterior distributions of TF activities. Through extensive validation on simulated data and applications to real datasets, we demonstrate that NLBayes outperforms existing methods in accuracy, robustness to noise, and interpretability. We apply NLBayes to analyze TF activities in prostate cancer progression and treatment response, revealing key regulators and their dynamics. Furthermore, our model's capability to handle single-cell data allows for the identification of cell type-specific TF activities and regulatory patterns. NLBayes provides a powerful and versatile tool for the systems-level analysis of transcriptional regulation in complex biological processes and diseases.
+
+<!-- more -->
 
 ## Key Points
 

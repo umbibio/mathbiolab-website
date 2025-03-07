@@ -1,0 +1,60 @@
+<article class="md-publication">
+    
+    <div class="md-publication__title">
+        <a href="{{ post.url | url }}"> {{- post.title -}} </a>.
+    </div>
+    {% if post.authors %}
+        <div class="md-publication__authors">
+        {%- if post.authors|length > 0 %}
+            {% for author in post.authors %}
+                {{ author.name | replace(" ", "&nbsp;") | replace("-", "&#8209;") }}{% if loop.revindex > 1 %}, {% else %}. {% endif %}
+            {% endfor %}
+        {% endif -%}
+        </div>
+    {% endif %}
+
+    {% if post.meta.journal %}
+        <div class="md-publication__journal">
+            {{ post.meta.journal }}.
+        </div>
+    {% endif %}
+
+    {% if post.meta.image %}
+    <div class="md-publication__content md-typeset">
+        <div class="md-publication__image">
+            <img src="{{ post.meta.image | url }}" alt="post image">
+        </div>
+    </div>
+    {% endif %}
+
+    <hr>
+    <div class="md-publication__meta md-meta">
+        <time datetime="{{ post.config.date.created }}">
+            {{- post.config.date.created | date -}}
+        </time>
+        {#- Collapse whitespace -#}
+        {% if post.categories %}
+        {{ lang.t("blog.categories.in") }}
+        {% for category in post.categories %}
+        <a href="{{ category.url | url }}" class="md-meta__link">
+            {{- category.title -}}
+        </a>
+        {%- if loop.revindex > 1 %}, {% endif -%}
+        {% endfor -%}
+        {% endif %}
+        <br>
+        {% if post.config.readtime %}
+        {% set time = post.config.readtime %}
+        {% if time == 1 %}
+        {{ lang.t("readtime.one") }}
+        {% else %}
+        {{ lang.t("readtime.other") | replace("#", time) }}
+        {% endif %}
+        {% endif %}
+        {% if post.config.draft %}
+        <span class="md-draft">
+            {{ lang.t("blog.draft") }}
+        </span>
+        {% endif %}
+    </div>
+</article>

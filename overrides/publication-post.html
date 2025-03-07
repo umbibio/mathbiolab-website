@@ -39,7 +39,7 @@
           <nav class="md-nav md-nav--primary">
 
             <!-- Back to overview link -->
-            <!-- <div class="md-post__back">
+            <div class="md-post__back">
               <div class="md-nav__title md-nav__container">
                 <a href="{{ page.parent.url | url }}" class=" md-nav__link">
                   {% include ".icons/material/arrow-left.svg" %}
@@ -48,7 +48,7 @@
                   </span>
                 </a>
               </div>
-            </div> -->
+            </div>
 
             <!-- Post authors -->
             {% if page.authors %}
@@ -187,7 +187,7 @@
     <!-- Page content -->
     <article class="md-content__inner md-typeset">
       {% block content %}
-        {% include "partials/content.html" %}
+        {% include "partials/publication-content.html" %}
       {% endblock %}
     </article>
   </div>

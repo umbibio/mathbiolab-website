@@ -1,0 +1,85 @@
+<article class="md-news-item">
+
+
+  
+    <!-- Post content -->
+    <!-- <h2> <a href="{{ post.url | url }}">{{ post.title }}</a> </h2> -->
+
+
+    {% if post.meta.image %}
+    <div class="md-post__content md-typeset">
+        <div class="md-post__image">
+            <img src="{{ post.meta.image | url }}" alt="post image">
+        </div>
+    </div>
+    {% endif %}
+
+
+    <div class="md-post__content md-typeset">
+      {{ post.content }}
+  
+      <!-- Continue reading link -->
+      {% if post.more %}
+        <nav class="md-post__action">
+          <a href="{{ post.url | url }}">
+            {{ lang.t("blog.continue") }}
+          </a>
+        </nav>
+      {% endif %}
+    </div>
+    <hr>
+
+    <!-- Post authors -->
+    {% if post.authors %}
+
+      {% for author in post.authors %}
+      <div class="md-profile md-post__profile" style="width: 100%;">
+          <span class="md-author md-author--long">
+              <img src="{{ author.avatar | url }}" alt="{{ author.name }}">
+          </span>
+          <span class="md-profile__description">
+              <strong>
+                  {% if author.url %}
+                      <a href="{{ author.url | url }}">{{ author.name }}</a>
+                  {% else %}
+                      {{ author.name }}
+                  {% endif %}
+              </strong>
+              <br />
+              {{ author.description }}
+          </span>
+      </div>
+      {% endfor %}
+
+    {% endif %}
+    <hr>
+    <div class="md-post__meta md-meta">
+        <time datetime="{{ post.config.date.created }}">
+            {{- post.config.date.created | date -}}
+        </time>
+        {#- Collapse whitespace -#}
+        {% if post.categories %}
+        {{ lang.t("blog.categories.in") }}
+        {% for category in post.categories %}
+        <a href="{{ category.url | url }}" class="md-meta__link">
+            {{- category.title -}}
+        </a>
+        {%- if loop.revindex > 1 %}, {% endif -%}
+        {% endfor -%}
+        {% endif %}
+        <br>
+        {% if post.config.readtime %}
+        {% set time = post.config.readtime %}
+        {% if time == 1 %}
+        {{ lang.t("readtime.one") }}
+        {% else %}
+        {{ lang.t("readtime.other") | replace("#", time) }}
+        {% endif %}
+        {% endif %}
+        {% if post.config.draft %}
+        <span class="md-draft">
+            {{ lang.t("blog.draft") }}
+        </span>
+        {% endif %}
+    </div>
+  </article>

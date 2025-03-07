@@ -1,1 +1,7 @@
-# Latest Posts
+---
+hide:
+  - navigation
+  - toc
+template: news.html
+---
+

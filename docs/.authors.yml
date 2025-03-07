@@ -2,7 +2,7 @@ authors:
   mathbiolab:
     name: MathBioLab Team
     description: Official announcements from the Mathematical Biology Lab
-    avatar: /assets/images/logo.png
+    avatar: assets/images/logo.png
 
   # MathBioLab authors and collaborators
   kzarringhalam:
@@ -114,8 +114,8 @@ authors:
 
   azhurkevich:
     name: Alexander Zhurkevich
-    description: University of Massachusetts Boston
-    avatar: /assets/images/people/placeholder.png
+    description: NVIDIA
+    avatar: https://media.licdn.com/dms/image/v2/D5603AQHQlE6pcXpOVg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712433882829?e=1746662400&v=beta&t=VlNKL8aH7Oky5eQnLOzs6u7X8XmwFTduNa--L0KyknQ
 
   ledobrolecki:
     name: Lacey E. Dobrolecki
@@ -126,24 +126,24 @@ authors:
   vaprimojr:
     name: Vincent A. Primo Jr.
     description: Boston College
-    avatar: /assets/images/logo.png
+    avatar: assets/images/logo.png
 
   afarrell:
     name: Andrew Farrell
     description: University of Utah
-    avatar: /assets/images/logo.png
+    avatar: assets/images/logo.png
 
   cqmurphy:
     name: Connor Q. Murphy
     description: Boston College
-    avatar: /assets/images/logo.png
+    avatar: assets/images/logo.png
 
   avajdi:
     name: Amir Vajdi
     description: University of Massachusetts Boston
-    avatar: /assets/images/logo.png
+    avatar: assets/images/logo.png
 
   gtmarth:
     name: Gabor T. Marth
     description: University of Utah
-    avatar: /assets/images/logo.png
+    avatar: assets/images/logo.png

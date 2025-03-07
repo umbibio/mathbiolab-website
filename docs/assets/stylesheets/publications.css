@@ -1,0 +1,91 @@
+.md-typeset .publications-grid.cards>ol,
+.md-typeset .publications-grid.cards>ul {
+    display: contents;
+}
+
+.md-typeset .publications-grid>*,
+.md-typeset .publications-grid>.admonition,
+.md-typeset .publications-grid>.highlight>*,
+.md-typeset .publications-grid>.highlighttable,
+.md-typeset .publications-grid>.md-typeset details,
+.md-typeset .publications-grid>details,
+.md-typeset .publications-grid>pre {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.md-typeset .publications-grid {
+    /* column-count: 3; */
+    column-width: 16rem;
+    /* column-width: 100%; */
+    column-gap: .4rem;
+    margin: 1em 0;
+    display: block;
+    /* background-color: aqua; */
+}
+
+.md-typeset .publications-grid.cards>ol>li,
+.md-typeset .publications-grid.cards>ul>li,
+.md-typeset .publications-grid>.card {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 0.4rem;
+    border: .05rem solid var(--md-default-fg-color--lightest);
+    border-radius: 0.5rem;
+    padding: .8rem;
+    transition: border .25s, box-shadow .25s;
+    /* background-color: yellow; */
+}
+
+.md-typeset .publications-grid.cards>ol>li h2,
+.md-typeset .publications-grid.cards>ul>li h2,
+.md-typeset .publications-grid>.card h2 {
+    margin-top: 0;
+}
+
+.md-typeset .publications-grid.cards>ol>li h3,
+.md-typeset .publications-grid.cards>ul>li h3,
+.md-typeset .publications-grid>.card h3 {
+    line-height: 1.2;
+    margin: 0.8em 0 0.4em;
+}
+
+.md-publication .md-publication__authors,
+.md-publication .md-publication__journal {
+    line-height: 1.5;
+    font-size: small;
+    margin: 0.5em 0;
+}
+
+.md-publication .md-publication__authors {
+    font-weight: bold;
+}
+
+.md-publication .md-publication__journal {
+    font-style: italic;
+}
+
+.md-publication .md-publication__title {
+    font-weight: normal;
+    font-size: large;
+    line-height: 1.2;
+}
+
+.md-publication .md-publication__image {
+    margin: 1em 2em;
+}
+.md-publication hr {
+    margin: 0.5em 0;
+}
+
+.md-typeset table:not([class]) {
+    border: none;
+}
+
+.md-typeset table:not([class]) th:not([align]) {
+    text-align: right;
+}
+
+.md-typeset table:not([class]) td:not([align]) {
+    text-align: left;
+}

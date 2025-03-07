@@ -1,12 +1,13 @@
 ---
+title: MathBioLab at Molecular Parasitology Meeting XXXVI
+image: assets/images/news/mpmxxxv_logo.png
 date: 2025-03-03
 authors:
   - mathbiolab
 categories:
+  - News
   - Conferences
 ---
-
-# MathBioLab at Molecular Parasitology Meeting XXXVI
 
 We are excited to announce that members of our lab will be attending the 36th Molecular Parasitology Meeting (MPM XXXVI) taking place from September 14-18, 2025, in Woods Hole, Massachusetts, USA.
 

@@ -1,8 +1,10 @@
 site_name: MathBioLab at UMass Boston
 site_url: "https://mathbiolab.org"
 copyright: Copyright © MathBioLab at UMass Boston, 2025
-extra:
-  generator: false
+extra_css:
+  - assets/stylesheets/extra.css
+  - assets/stylesheets/publications.css
+  - assets/stylesheets/news.css
 
 theme:
   name: material
@@ -14,8 +16,6 @@ theme:
     - search.suggest
     - search.highlight
   custom_dir: overrides
-  extra_css:
-    - assets/stylesheets/extra.css
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -35,7 +35,10 @@ theme:
         name: Switch to light mode
 
 nav:
-  - Home: /
+  - Home:
+    - news/index.md
+  - News:
+    - news/category/news
   - Research:
     - Overview: research/overview.md
     - Projects: research/projects.md
@@ -45,8 +48,6 @@ nav:
     - By Research Interest: people/by-research.md
   - Publications:
     - publications/index.md
-  - News & Events:
-    - news/index.md
   - Contact: contact/
 
 plugins:
@@ -65,8 +66,9 @@ plugins:
       categories_name: Categories
       archive: true
       archive_name: Archive
-      pagination_per_page: 5
+      pagination_per_page: 6
       authors_file: ".authors.yml"
+      post_excerpt_max_authors: 2
   - blog:
       blog_dir: publications
       blog_toc: true
@@ -77,8 +79,10 @@ plugins:
       categories_name: Topics
       archive: true
       archive_name: "Publication Year"
-      pagination_per_page: 5
+      pagination_per_page: 12
       authors_file: ".authors.yml"
+      post_readtime: false
+      post_excerpt_max_authors: 10
 
 markdown_extensions:
   - meta
@@ -95,4 +99,3 @@ markdown_extensions:
   - tables
   - footnotes
   - pymdownx.blocks.caption
-
