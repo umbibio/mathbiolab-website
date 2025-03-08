@@ -13,19 +13,19 @@ tags:
 <!-- <img src='/assets/images/people/k3.jpg' alt="Kourosh Zarringhalam" align="right" width=200 margin-right=50px/> -->
 
 **Position:** Principle Investigator,  
-Professor, Department of Mathematics,  
-Center for Personalized Cancer Therapy,  
-Computational Sciences Graduate Program, Director  
+Professor, [Department of Mathematics](https://www.umb.edu/science-mathematics/academic-departments/mathematics/),  
+[Center for Personalized Cancer Therapy (CPCT)](https://www.umb.edu/cpct/),  
+[Computational Sciences Graduate Program (CSci)](https://www.umb.edu/academics/program-finder/computational-sciences-phd/), Director  
 
 **Education:**
 
-- Ph.D. in Mathematics, University of New Hampshire
+- Ph.D. in Mathematics, University of New Hampshire 2006
 
 **Research Interests:** 
 
 - Computational Biology
-- Parasitology
-- Cancer Biology
+- Computational Parasitology
+- Computational Cancer Research
 - Applied Mathematics
 - Machine Learning
 
@@ -44,7 +44,7 @@ Computational Sciences Graduate Program, Director
 
 ## Biography
 
-Dr. Kourosh Zarringhalam is a Professor in the Department of Mathematics and a member of the Center for Personalized Cancer Therapy (CPCT) at the University of Massachusetts Boston. He leads the Mathematical Biology Lab (MathBioLab). 
+Dr. Kourosh Zarringhalam is a Professor in the [Department of Mathematics](https://www.umb.edu/science-mathematics/academic-departments/mathematics/) and a member of the [Center for Personalized Cancer Therapy (CPCT)]((https://www.umb.edu/cpct/)) at the [University of Massachusetts Boston](https://www.umb.edu/). He leads the Mathematical Biology Lab (MathBioLab). 
 
 ## Research Focus
 
@@ -59,11 +59,11 @@ The MathBioLab develops innovative computational approaches to solve complex bio
 
 ## Selected Publications
 
-1. Deep learning-based cross-classifications reveal conserved spatial behaviors within tumor histological images (2020), Nature Communications
-2. Deep learning trained on hematoxylin and eosin tumor region of Interest predicts HER2 status and trastuzumab treatment response in HER2+ breast cancer (2021), Modern Pathology
-3. The essential genome of Plasmodium knowlesi reveals determinants of antimalarial susceptibility (2025), Science
-4. Single cell expression and chromatin access of the Toxoplasma gondii lytic cycle identifies AP2XII-8 as an essential pivotal controller of a ribosome regulon (2024), Nature Communications
-5. Comparative chemical genomics in Babesia species identifies the alkaline phosphatase phoD as a novel determinant of resistance (2023), PNAS
+1. The essential genome of *Plasmodium knowlesi* reveals determinants of antimalarial susceptibility (2025), Science
+2. ingle cell expression and chromatin access of the *Toxoplasma gondii* lytic cycle identifies AP2XII-8 as an essential pivotal controller of a ribosome regulon (2024), Nature Communications
+3. Deep learning-based cross-classifications reveal conserved spatial behaviors within tumor histological images (2020), Nature Communications
+4. Deep learning trained on hematoxylin and eosin tumor region of Interest predicts HER2 status and trastuzumab treatment response in HER2+ breast cancer (2021), Modern Pathology
+5. Causal Inference Engine: A platform for directional gene set enrichment analysis and inference of active transcriptional regulators (2019), Nucleic Acids Research
 6. A Bayesian Noisy Logic Model for Inference of Transcription Factor Activity from Single Cell and Bulk Transcriptomic Data (2023), NAR Genomics & Bioinformatics
 
 <!--

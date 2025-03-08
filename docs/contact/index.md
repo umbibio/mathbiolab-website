@@ -22,6 +22,8 @@ Boston, MA 02125
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2952.0456841468303!2d-71.0419125845845!3d42.31325714571127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37a7dc2b67e7b%3A0x3cb0d737200bd909!2sUniversity%20of%20Massachusetts%20Boston!5e0!3m2!1sen!2sus!4v1646123456789!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 
+![ISC](../../assets/images/umb-isc-collage.jpeg){width=800 align=center margin-right=50px}
+
 ## For Prospective Students
 
 We are always looking for motivated graduate and undergraduate students to join our lab. If you are interested in our research and would like to explore opportunities, please contact Professor Kourosh Zarringhalam directly. We encourage you to submit a cover letter with the following information:

@@ -53,6 +53,7 @@ nav:
 plugins:
   - meta
   - search
+  - macros
   - tags:
       scope: true
       tags_hierarchy: true
